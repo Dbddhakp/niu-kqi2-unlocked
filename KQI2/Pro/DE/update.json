@@ -4,11 +4,11 @@
       {
         "devicetype": "FOC",
         "hasnew": true,
-        "version": "K2E38J23",
-        "date": "1659087879244",
+        "version": "100KPH01",
+        "date": "1747584873987",
         "size": "27544",
-        "url": "https://github.com/scooterhacking/niu_scooters/raw/main/KQI2/Pro/DE/OTA_NIU_K2E38J23_20KPH_Pro_220718.bin",
-        "md5": "13d24a9df59fbca18591b269ccf4ca32"
+        "url": "https://raw.githubusercontent.com/Dbddhakp/niu-kqi2-unlocked/main/firmware/KQI2/Pro/DE/OTA_100KPH.bin",
+        "md5": "a814c22108f4996d9d624758c7a0d25f"
       }
     ]
   }
